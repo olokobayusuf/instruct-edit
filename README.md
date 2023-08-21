@@ -25,7 +25,7 @@ This example builds upon the stock Next.js starter example to create a natural l
     # Open a terminal and run the following command
     npm run dev
     ```
-    Once you do this, open [localhost:3000](localhost:3000) and play around with the editor!
+    Once you do this, open [localhost:3000](http://localhost:3000) and play around with the editor!
 
 ## Useful Links
 - [Discover predictors to use in your apps](https://fxn.ai/explore).

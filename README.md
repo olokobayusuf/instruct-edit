@@ -19,7 +19,7 @@ This example builds upon the stock Next.js starter example to create a natural l
     ![generate access key](https://raw.githubusercontent.com/fxnai/.github/main/access_key.gif) <br/>
     Then paste the generated access key as the `NEXT_PUBLIC_FXN_ACCESS_KEY` value in your `.env.local` file.
     > ⛔: **Do not publish this website with your access key**. Your key will be publicly viewable.
-4. Head over to [fxn.ai/create](https://fxn.ai/create) to create an image editing predictor. Use the prompt from the "How it Works" section above. Once the predictor is active, copy the predictor tag and paste it as the `NEXT_PUBLIC_EDIT_FXN_TAG` value in your `.env.local` file.
+4. Head over to [fxn.ai/create](https://fxn.ai/create) to create an image editing predictor. Use the prompt from the "How it Works" section above. Once the predictor is active, copy the predictor tag (e.g. `@username/predictor-name`) and paste it as the `NEXT_PUBLIC_EDIT_FXN_TAG` value in your `.env.local` file.
 5. Run the Next.js development server:
     ```bash
     # Open a terminal and run the following command
